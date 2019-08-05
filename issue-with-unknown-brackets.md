@@ -1,1 +1,1 @@
-See [https://github.com/UniFormal/ESSLLI2019/issues/2]
+See https://github.com/UniFormal/ESSLLI2019/issues/2
