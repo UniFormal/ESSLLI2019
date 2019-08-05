@@ -1,5 +1,5 @@
 This was caused by the MMT setup cloning the `master` branch of the repository `urtheories`, which defines the meta-logic we are using.
-We needed a the devel branch instead.
+We needed the `devel` branch instead.
 
 Fresh installs do not have the problem anymore.
 
