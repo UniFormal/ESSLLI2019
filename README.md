@@ -3,4 +3,4 @@ This repository contains the materials for the course Formalizing the Zoo of Log
 Here you can
 * follow the [instructions](MMT-Setup.md) to setup the software we will use
 * find our slides here
-* [report and comment on issues](issues) to communicate with us (= Michael and Florian) or each other
+* [report and comment on issues](https://github.com/UniFormal/ESSLLI2019/issues/) to communicate with us (= Michael and Florian) or each other
